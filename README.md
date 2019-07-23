@@ -30,7 +30,7 @@ This is very simple chess website built using React, Go, and MongoDB. Players wi
 3. Enter another name in the other window and click "Start Game".
 4. Each window will now have a chess board open. White moves first.
 5. Each move made will be broadcast to the other player. A list of moves in the game is shown on the side.
-6. Quick gaem to show off (Scholar's Mate): `1. e4 e5 2. Bc4 Nc6 3. Qh5 Nf6?? 4. Qxf7#`
+6. Quick game to show off (Scholar's Mate): `1. e4 e5 2. Bc4 Nc6 3. Qh5 Nf6?? 4. Qxf7#`
 
 ## How does it work?
 
